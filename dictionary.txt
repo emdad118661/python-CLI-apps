@@ -1,0 +1,1 @@
+{'dog': {'description': 'A domestic animal with four legs.'}, 'bark': {'description': 'The sound create when dog shouts'}}

@@ -1,0 +1,1 @@
+{'list1': {'description': 'rifat weeding party', 'date': '29 june', 'place': 'dhanmondi'}, 'list2': {'description': 'conferance', 'date': '25 june', 'place': 'mirpur-2'}}
